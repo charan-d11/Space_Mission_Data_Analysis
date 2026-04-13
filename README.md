@@ -33,7 +33,7 @@ yield, launch vehicles, and target types using Python.
 
 ## How to Run
 1. Clone the repository
-   git clone https://github.com/yourusername/space-missions-data-analysis.git
+   git clone https://github.com/charan-d11/space-missions-data-analysis.git
 
 2. Install dependencies
    pip install pandas matplotlib scipy numpy
@@ -42,6 +42,7 @@ yield, launch vehicles, and target types using Python.
    jupyter notebook space_missions_analysis.ipynb
 
 ## Project Structure
+<br>
 space-missions-data-analysis/
 │
 ├── data/
@@ -50,3 +51,4 @@ space-missions-data-analysis/
 ├── space_missions_analysis.ipynb
 ├── README.md
 └── requirements.txt
+</br>
